@@ -7,7 +7,7 @@ def greet2(name: str) -> str:
 	return f"Hello, {name}!"
 
 def greet3(name: str) -> str:
-	"""Return a friendly greeting for name."""
+	"""Return a friendly greeting for name. new changenes added."""
 	return f"Hello, {name}!"
 
 
